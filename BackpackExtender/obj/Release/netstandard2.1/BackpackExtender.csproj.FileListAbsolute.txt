@@ -1,0 +1,10 @@
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\bin\Release\netstandard2.1\BackpackExtender.deps.json
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\bin\Release\netstandard2.1\BackpackExtender.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\bin\Release\netstandard2.1\BackpackExtender.pdb
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.csproj.AssemblyReference.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.AssemblyInfoInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.AssemblyInfo.cs
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.csproj.CoreCompileInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\BackpackExtender\obj\Release\netstandard2.1\BackpackExtender.pdb

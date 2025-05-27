@@ -1,0 +1,10 @@
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.csproj.AssemblyReference.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.AssemblyInfoInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.AssemblyInfo.cs
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.csproj.CoreCompileInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\bin\Release\netstandard2.1\NoFallDamage.deps.json
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\bin\Release\netstandard2.1\NoFallDamage.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\bin\Release\netstandard2.1\NoFallDamage.pdb
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\NoFallDamage\obj\Release\netstandard2.1\NoFallDamage.pdb

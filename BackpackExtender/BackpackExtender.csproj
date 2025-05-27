@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>BackpackExtender</AssemblyName>
+    <Description>(UI) Backpack Size Manager</Description>
+    <Version>1.0.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  
+  <!-- Importa le proprietà condivise (come GameDir) -->
+  <Import Project="..\solution_private.targets" />
+  
+  <ItemGroup>
+    <!-- Riferimenti a BepInEx -->
+    <Reference Include="BepInEx">
+      <HintPath>$(GameDir)\BepInEx\core\BepInEx.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    
+    <!-- Riferimento a HarmonyLib -->
+    <Reference Include="0Harmony">
+      <HintPath>$(GameDir)\BepInEx\core\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    
+    <!-- Riferimenti a Unity Engine (dalla cartella Managed del gioco) -->
+    <!-- È una buona pratica includere UnityEngine.dll base se usi BaseUnityPlugin -->
+    <Reference Include="UnityEngine">
+        <HintPath>$(GameManaged)\UnityEngine.dll</HintPath>
+        <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameManaged)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GameManaged)\UnityEngine.UI.dll</HintPath> <!-- Assicurati che il case sia corretto (UI vs ui) -->
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>$(GameManaged)\Unity.InputSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+	  <HintPath>$(GameManaged)\Unity.TextMeshPro.dll</HintPath> <!-- Assicurati che il case sia corretto -->
+	  <Private>False</Private>
+	</Reference>
+    <Reference Include="HSVPicker"> <!-- Se il file è HSVPicker.dll e non Unity.HSVPicker.dll -->
+        <HintPath>$(GameManaged)\HSVPicker.dll</HintPath>
+        <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>$(GameManaged)\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <!-- Riferimenti specifici del gioco -->
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GameManaged)\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Netcode.Runtime">
+      <HintPath>$(GameManaged)\Unity.Netcode.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  
+  <Target Name="CopyDLLs" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetDir)$(AssemblyName).dll" DestinationFolder="$(Destination)" />
+  </Target>
+</Project>
