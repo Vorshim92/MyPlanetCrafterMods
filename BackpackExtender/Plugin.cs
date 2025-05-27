@@ -365,6 +365,11 @@ namespace BackpackExtender
             if (inventory == null) return;
 
             var currentSize = inventory.GetSize();
+            if (currentSize == targetSize)
+            {
+                logger.LogInfo($"SetInventorySize: Target size {targetSize} is already the current size. No change needed.");
+                return;
+            }
             var offset = targetSize - currentSize;
 
             logger.LogInfo($"Setting inventory size: {currentSize} -> {targetSize} (offset: {offset})");
@@ -390,17 +395,19 @@ namespace BackpackExtender
         public static void TrueRefreshContent(InventoryDisplayer __instance, GridLayoutGroup ____grid, Inventory ____inventory)
         {
             // Se l'inventario è piccolo, non fare nulla
-            if (____inventory.GetSize() <= 72) return;
-            logger.LogInfo($"Large inventory detected: {____inventory.GetSize()} slots. Applying viewport fix.");
+            // if (____inventory.GetSize() <= 72) return;
+            // logger.LogInfo($"Large inventory detected: {____inventory.GetSize()} slots. Applying viewport fix.");
 
             // Logica per aggiungere scrollbar quando serve
-            if (____grid.transform.parent.name != "ViewPort")
+             if (____grid.transform.parent != null && ____grid.transform.parent.name == "MyCustom_ViewPort")
             {
-                CreateScrollView(__instance, ____grid, ____inventory);
+                // La griglia è già dentro il nostro viewport customizzato, quindi aggiorniamo
+                UpdateScrollView(__instance, ____grid, ____inventory);
             }
             else
             {
-                UpdateScrollView(__instance, ____grid, ____inventory);
+                // La griglia non è nel nostro viewport, quindi creiamo la struttura ScrollView
+                CreateScrollView(__instance, ____grid, ____inventory);
             }
         }
 
