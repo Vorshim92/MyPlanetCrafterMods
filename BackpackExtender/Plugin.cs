@@ -397,6 +397,11 @@ namespace BackpackExtender
             // Se l'inventario è piccolo, non fare nulla
             // if (____inventory.GetSize() <= 72) return;
             // logger.LogInfo($"Large inventory detected: {____inventory.GetSize()} slots. Applying viewport fix.");
+            var playerInventory = GetPlayerInventory();
+            if (____inventory != playerInventory) // Applica solo all'inventario del giocatore
+            {
+                return;
+            }
 
             // Logica per aggiungere scrollbar quando serve
              if (____grid.transform.parent != null && ____grid.transform.parent.name == "MyCustom_ViewPort")
