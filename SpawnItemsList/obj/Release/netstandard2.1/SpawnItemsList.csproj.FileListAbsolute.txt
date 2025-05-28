@@ -1,0 +1,10 @@
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\bin\Release\netstandard2.1\SpawnItemsList.deps.json
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\bin\Release\netstandard2.1\SpawnItemsList.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\bin\Release\netstandard2.1\SpawnItemsList.pdb
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.csproj.AssemblyReference.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.AssemblyInfoInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.AssemblyInfo.cs
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.csproj.CoreCompileInputs.cache
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.dll
+C:\Users\Vorshim\Documents\GitHub\ThePlanetCrafter-Mod\MyPlanetCrafterMods\SpawnItemsList\obj\Release\netstandard2.1\SpawnItemsList.pdb

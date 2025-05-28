@@ -23,6 +23,9 @@ namespace BackpackExtender
         private static ConfigEntry<int> defaultBackpackSize;
         private static ConfigEntry<bool> autoSetOnSpawn;
         private static GameObject sizeControlPanel;
+        private static ConfigEntry<KeyboardShortcut> togglePanelShortcut;
+        private static bool showSizeControlPanelConfig = true;
+
         public static Plugin instance;
 
         private void Awake()
@@ -33,11 +36,34 @@ namespace BackpackExtender
             // Configurazione
             defaultBackpackSize = Config.Bind("General", "DefaultBackpackSize", 100, "Default backpack size when spawning");
             autoSetOnSpawn = Config.Bind("General", "AutoSetOnSpawn", true, "Automatically set backpack size on spawn");
+            togglePanelShortcut = Config.Bind("General", "TogglePanelShortcut", new KeyboardShortcut(KeyCode.B, KeyCode.LeftControl, KeyCode.LeftShift), "Shortcut to toggle the backpack size control panel visibility.");
+            showSizeControlPanelConfig = Config.Bind("General", "ShowSizeControlPanel", true, "Show the size control panel by default.").Value;
 
             Harmony.CreateAndPatchAll(typeof(Plugin));
 
             logger.LogInfo("BackpackExtender loaded!");
         }
+
+        private void Update()
+        {
+            if (togglePanelShortcut.Value.IsDown()) // IsDown() è per un singolo evento di pressione
+            {
+                showSizeControlPanelConfig = !showSizeControlPanelConfig;
+                logger.LogInfo($"Toggle panel shortcut pressed. Panel visible: {showSizeControlPanelConfig}");
+
+                // Se il pannello di controllo esiste, aggiorna la sua visibilità
+                if (sizeControlPanel != null)
+                {
+                    sizeControlPanel.SetActive(showSizeControlPanelConfig);
+                    logger.LogInfo($"Size control panel active state set to: {sizeControlPanel.activeSelf}");
+                }
+                // Se vuoi salvare lo stato nella config:
+                // Config.Bind("General", "ShowSizeControlPanel", true).Value = showSizeControlPanelConfig; // Questo riscriverebbe la descrizione, meglio avere una variabile di config dedicata.
+                // Oppure, se hai una ConfigEntry<bool> per lo stato:
+                // showSizeControlPanelConfigEntry.Value = showSizeControlPanelConfig; // (dove showSizeControlPanelConfigEntry è la tua ConfigEntry<bool>)
+            }
+        }
+
 
         private void OnDestroy()
         {
@@ -70,11 +96,14 @@ namespace BackpackExtender
                 // (anche se con un solo pannello globale questo è meno critico)
                 var windowsHandler = Managers.GetManager<WindowsHandler>();
                 var eqWindow = windowsHandler.GetWindowViaUiId(DataConfig.UiType.Equipment);
-                if (eqWindow != null && sizeControlPanel.transform.IsChildOf(eqWindow.transform)) {
+                if (eqWindow != null && sizeControlPanel.transform.IsChildOf(eqWindow.transform))
+                {
                     logger.LogInfo("UiWindowEquipment.OnClose: Destroying size control panel associated with this window.");
                     Destroy(sizeControlPanel);
                     sizeControlPanel = null;
-                } else if (sizeControlPanel != null) {
+                }
+                else if (sizeControlPanel != null)
+                {
                     // Se esiste ma non è figlio, potrebbe essere un rimasuglio o gestito altrove.
                     // Per sicurezza, se chiudiamo la finestra equip, e il nostro pannello è attivo, lo chiudiamo.
                     logger.LogInfo("UiWindowEquipment.OnClose: Destroying (potentially orphaned) size control panel.");
@@ -318,24 +347,26 @@ namespace BackpackExtender
 
             logger.LogInfo("CreateSizeControls: Button OnClick listener added.");
 
-            sizeControlPanel.SetActive(true); // Assicurati che sia attivo
+            sizeControlPanel.SetActive(showSizeControlPanelConfig);
+            logger.LogInfo($"CreateSizeControls: Panel '{sizeControlPanel.name}' initial activeSelf: {sizeControlPanel.activeSelf}, based on showSizeControlPanelConfig: {showSizeControlPanelConfig}");
+
             logger.LogInfo($"CreateSizeControls: Panel '{sizeControlPanel.name}' final state: activeSelf='{sizeControlPanel.activeSelf}', activeInHierarchy='{sizeControlPanel.activeInHierarchy}'. Layer: {LayerMask.LayerToName(sizeControlPanel.layer)}");
             logger.LogInfo("--- CreateSizeControls END (Success) ---");
         }
 
         static Inventory GetPlayerInventory()
+        {
+            var pm = Managers.GetManager<PlayersManager>();
+            if (pm != null)
             {
-                var pm = Managers.GetManager<PlayersManager>();
-                if (pm != null)
+                var player = pm.GetActivePlayerController();
+                if (player != null)
                 {
-                    var player = pm.GetActivePlayerController();
-                    if (player != null)
-                    {
-                        return player.GetPlayerBackpack()?.GetInventory();
-                    }
+                    return player.GetPlayerBackpack()?.GetInventory();
                 }
-                return null;
             }
+            return null;
+        }
 
         // Patch per auto-set size quando spawni
         [HarmonyPostfix]
@@ -394,17 +425,18 @@ namespace BackpackExtender
         [HarmonyPatch(typeof(InventoryDisplayer), "TrueRefreshContent")]
         public static void TrueRefreshContent(InventoryDisplayer __instance, GridLayoutGroup ____grid, Inventory ____inventory)
         {
-            // Se l'inventario è piccolo, non fare nulla
-            // if (____inventory.GetSize() <= 72) return;
-            // logger.LogInfo($"Large inventory detected: {____inventory.GetSize()} slots. Applying viewport fix.");
             var playerInventory = GetPlayerInventory();
             if (____inventory != playerInventory) // Applica solo all'inventario del giocatore
             {
                 return;
             }
 
+            // Se l'inventario è piccolo, non fare nulla
+            if (____inventory.GetSize() <= 54) return;
+            logger.LogInfo($"Large inventory detected: {____inventory.GetSize()} slots. Applying viewport fix.");
+
             // Logica per aggiungere scrollbar quando serve
-             if (____grid.transform.parent != null && ____grid.transform.parent.name == "MyCustom_ViewPort")
+            if (____grid.transform.parent != null && ____grid.transform.parent.name == "MyCustom_ViewPort")
             {
                 // La griglia è già dentro il nostro viewport customizzato, quindi aggiorniamo
                 UpdateScrollView(__instance, ____grid, ____inventory);
@@ -550,7 +582,7 @@ namespace BackpackExtender
                 }
                 else if (!existingScrollbar.gameObject.activeSelf)
                 {
-                     existingScrollbar.gameObject.SetActive(true); // Riattiva se era nascosta
+                    existingScrollbar.gameObject.SetActive(true); // Riattiva se era nascosta
                 }
             }
             else
@@ -561,8 +593,8 @@ namespace BackpackExtender
                     // Potresti volerla solo nascondere se usi AutoHide
                     // existingScrollbar.gameObject.SetActive(false);
                     // Oppure rimuoverla e il riferimento se non vuoi che AutoHide la gestisca
-                     Destroy(existingScrollbar.gameObject);
-                     scrollRectComponent.verticalScrollbar = null;
+                    Destroy(existingScrollbar.gameObject);
+                    scrollRectComponent.verticalScrollbar = null;
                 }
             }
             logger.LogInfo($"UpdateScrollView: Grid height updated to {contentHeight}. Viewport height: {viewportRect.rect.height}");

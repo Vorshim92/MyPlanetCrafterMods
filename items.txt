@@ -1,0 +1,632 @@
+--- Lista di Tutti i Gruppi di Oggetti Registrati (con Nomi Display) ---
+Trovati 627 gruppi di oggetti:
+Formato: ID del Gruppo (Nome Display) - Tipo Base del Gruppo
+1. ID: 'AirFilter1' (Nome: "Air filter") - Tipo: GroupItem
+2. ID: 'Algae1Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+3. ID: 'Algae1Seed' (Nome: "Algae") - Tipo: GroupItem
+4. ID: 'AlgaeGenerator1' (Nome: "T1 Algae Generator") - Tipo: GroupConstructible
+5. ID: 'AlgaeGenerator2' (Nome: "T2 Algae Generator") - Tipo: GroupConstructible
+6. ID: 'Alloy' (Nome: "Super Alloy") - Tipo: GroupItem
+7. ID: 'Aluminium' (Nome: "Aluminum") - Tipo: GroupItem
+8. ID: 'AmphibiansFarm1' (Nome: "Amphibian farm") - Tipo: GroupConstructible
+9. ID: 'AnimalEffigie1' (Nome: "Animal Effigy : Sharky ") - Tipo: GroupConstructible
+10. ID: 'AnimalEffigie2' (Nome: "Animal Effigy : Allyca") - Tipo: GroupConstructible
+11. ID: 'AnimalEffigie3' (Nome: "Animal Effigy : Tilopina") - Tipo: GroupConstructible
+12. ID: 'AnimalEffigie4' (Nome: "Animal Effigy : Snoober") - Tipo: GroupConstructible
+13. ID: 'AnimalEffigie5' (Nome: "Animal Effigy : Muthus") - Tipo: GroupConstructible
+14. ID: 'AnimalEffigie6' (Nome: "Animal Effigy : Hydrequus") - Tipo: GroupConstructible
+15. ID: 'AnimalEffigie7' (Nome: "Animal Effigy : Arbatillo") - Tipo: GroupConstructible
+16. ID: 'AnimalEffigie8' (Nome: "Animal Effigy : Carachnid") - Tipo: GroupConstructible
+17. ID: 'AnimalFeeder1' (Nome: "Animal feeder") - Tipo: GroupConstructible
+18. ID: 'AnimalFood1' (Nome: "T1 Animal food") - Tipo: GroupItem
+19. ID: 'AnimalFood2' (Nome: "T2 Animal food") - Tipo: GroupItem
+20. ID: 'AnimalFood3' (Nome: "T3 Animal food") - Tipo: GroupItem
+21. ID: 'AnimalShelter1' (Nome: "Animal shelter") - Tipo: GroupConstructible
+22. ID: 'Aquarium1' (Nome: "T1 Aquarium") - Tipo: GroupConstructible
+23. ID: 'Aquarium2' (Nome: "T2 Aquarium") - Tipo: GroupConstructible
+24. ID: 'astrofood' (Nome: "Space Food") - Tipo: GroupItem
+25. ID: 'astrofood2' (Nome: "High quality food") - Tipo: GroupItem
+26. ID: 'AutoCrafter1' (Nome: "Auto-Crafter") - Tipo: GroupConstructible
+27. ID: 'Backpack1' (Nome: "T1 Backpack") - Tipo: GroupItem
+28. ID: 'Backpack2' (Nome: "T2 Backpack") - Tipo: GroupItem
+29. ID: 'Backpack3' (Nome: "T3 Backpack") - Tipo: GroupItem
+30. ID: 'Backpack4' (Nome: "T4 Backpack") - Tipo: GroupItem
+31. ID: 'Backpack5' (Nome: "T5 Backpack") - Tipo: GroupItem
+32. ID: 'Backpack6' (Nome: "T6 Backpack") - Tipo: GroupItem
+33. ID: 'Backpack7' (Nome: "T7 Backpack") - Tipo: GroupItem
+34. ID: 'Bacteria1' (Nome: "Bacteria Sample") - Tipo: GroupItem
+35. ID: 'BalzarQuartz' (Nome: "Blazar Quartz") - Tipo: GroupItem
+36. ID: 'Bauxite' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+37. ID: 'Beacon' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+38. ID: 'BedDouble' (Nome: "Double Bed") - Tipo: GroupConstructible
+39. ID: 'BedDoubleColored' (Nome: "Customizable bed") - Tipo: GroupConstructible
+40. ID: 'BedSimple' (Nome: "Bed") - Tipo: GroupConstructible
+41. ID: 'Bee1Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+42. ID: 'Bee1Larvae' (Nome: "Bee larva") - Tipo: GroupItem
+43. ID: 'Beehive1' (Nome: "Beehive") - Tipo: GroupConstructible
+44. ID: 'Beehive2' (Nome: "T2 Beehive") - Tipo: GroupConstructible
+45. ID: 'biodome' (Nome: "Biodome") - Tipo: GroupConstructible
+46. ID: 'Biodome2' (Nome: "T2 Biodome") - Tipo: GroupConstructible
+47. ID: 'Biolab' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+48. ID: 'Bioplastic1' (Nome: "Bioplastic nugget") - Tipo: GroupItem
+49. ID: 'BlueprintBedDoubleColored' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+50. ID: 'BlueprintContainer3' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+51. ID: 'BlueprintCookingStation' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+52. ID: 'BlueprintDeparturePlatform' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+53. ID: 'BlueprintDrone2' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+54. ID: 'BlueprintFireplace' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+55. ID: 'BlueprintFlare' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+56. ID: 'BlueprintFountainBig' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+57. ID: 'BlueprintHologramGenerator' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+58. ID: 'BlueprintLightBoxMedium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+59. ID: 'BlueprintPod9xA' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+60. ID: 'BlueprintPod9xB' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+61. ID: 'BlueprintPod9xC' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+62. ID: 'BlueprintSmartFabric' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+63. ID: 'BlueprintSofaColored' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+64. ID: 'BlueprintSolarQuartz' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+65. ID: 'BlueprintT1' (Nome: "Blueprint microchip") - Tipo: GroupItem
+66. ID: 'BlueprintTradePlatform' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+67. ID: 'BlueprintTreePlanter' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+68. ID: 'BlueprintWardensChip' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+69. ID: 'BootsSpeed1' (Nome: "T1 Agility Boots") - Tipo: GroupItem
+70. ID: 'BootsSpeed2' (Nome: "T2 Agility Boots") - Tipo: GroupItem
+71. ID: 'BootsSpeed3' (Nome: "T3 Agility Boots") - Tipo: GroupItem
+72. ID: 'Butterfly10Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+73. ID: 'Butterfly10Larvae' (Nome: "Liux butterfly larva") - Tipo: GroupItem
+74. ID: 'Butterfly11Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+75. ID: 'Butterfly11Larvae' (Nome: "Nere butterfly larva") - Tipo: GroupItem
+76. ID: 'Butterfly12Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+77. ID: 'Butterfly12Larvae' (Nome: "Lorpen butterfly larva") - Tipo: GroupItem
+78. ID: 'Butterfly13Hatched' (Nome: "Constela butterfly larva") - Tipo: GroupItem
+79. ID: 'Butterfly13Larvae' (Nome: "Fiorente butterfly larva") - Tipo: GroupItem
+80. ID: 'Butterfly14Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+81. ID: 'Butterfly14Larvae' (Nome: "Alben butterfly larva") - Tipo: GroupItem
+82. ID: 'Butterfly15Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+83. ID: 'Butterfly15Larvae' (Nome: "Futura butterfly larva") - Tipo: GroupItem
+84. ID: 'Butterfly16Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+85. ID: 'Butterfly16Larvae' (Nome: "Imeo butterfly larva") - Tipo: GroupItem
+86. ID: 'Butterfly17Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+87. ID: 'Butterfly17Larvae' (Nome: "Serena butterfly larva") - Tipo: GroupItem
+88. ID: 'Butterfly18Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+89. ID: 'Butterfly18Larvae' (Nome: "Golden butterfly larva") - Tipo: GroupItem
+90. ID: 'Butterfly19Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+91. ID: 'Butterfly19Larvae' (Nome: "Faleria butterfly larva") - Tipo: GroupItem
+92. ID: 'Butterfly1Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+93. ID: 'Butterfly1Larvae' (Nome: "Azurae butterfly larva") - Tipo: GroupItem
+94. ID: 'Butterfly20Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+95. ID: 'Butterfly20Larvae' (Nome: "Oesbe butterfly larva") - Tipo: GroupItem
+96. ID: 'Butterfly2Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+97. ID: 'Butterfly2Larvae' (Nome: "Leani butterfly larva") - Tipo: GroupItem
+98. ID: 'Butterfly3Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+99. ID: 'Butterfly3Larvae' (Nome: "Fensea butterfly larva") - Tipo: GroupItem
+100. ID: 'Butterfly4Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+101. ID: 'Butterfly4Larvae' (Nome: "Galaxe butterfly larva") - Tipo: GroupItem
+102. ID: 'Butterfly5Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+103. ID: 'Butterfly5Larvae' (Nome: "Abstreus butterfly larva") - Tipo: GroupItem
+104. ID: 'Butterfly6Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+105. ID: 'Butterfly6Larvae' (Nome: "Empalio butterfly larva") - Tipo: GroupItem
+106. ID: 'Butterfly7Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+107. ID: 'Butterfly7Larvae' (Nome: "Penga butterfly larva") - Tipo: GroupItem
+108. ID: 'Butterfly8Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+109. ID: 'Butterfly8Larvae' (Nome: "Chevrone butterfly larva") - Tipo: GroupItem
+110. ID: 'Butterfly9Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+111. ID: 'Butterfly9Larvae' (Nome: "Aemel butterfly larva") - Tipo: GroupItem
+112. ID: 'ButterflyDisplayer1' (Nome: "Butterfly display box") - Tipo: GroupConstructible
+113. ID: 'ButterflyDome1' (Nome: "Butterfly dome") - Tipo: GroupConstructible
+114. ID: 'ButterflyFarm1' (Nome: "Butterfly farm") - Tipo: GroupConstructible
+115. ID: 'ButterflyFarm2' (Nome: "T2 Butterfly Farm") - Tipo: GroupConstructible
+116. ID: 'ButterflyFarm3' (Nome: "T3 Butterfly Farm") - Tipo: GroupConstructible
+117. ID: 'canister' (Nome: "Canister") - Tipo: GroupConstructible
+118. ID: 'Chair1' (Nome: "Chair") - Tipo: GroupConstructible
+119. ID: 'Chair2' (Nome: "Cozy chair") - Tipo: GroupConstructible
+120. ID: 'CircuitBoard1' (Nome: "Circuit board") - Tipo: GroupItem
+121. ID: 'Cobalt' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+122. ID: 'ComAntenna' (Nome: "Communication Antenna") - Tipo: GroupConstructible
+123. ID: 'Container1' (Nome: "Storage crate") - Tipo: GroupConstructible
+124. ID: 'Container2' (Nome: "Locker Storage") - Tipo: GroupConstructible
+125. ID: 'Container3' (Nome: "T2 Locker Storage") - Tipo: GroupConstructible
+126. ID: 'ContainerAqualis' (Nome: "Clam") - Tipo: GroupConstructible
+127. ID: 'ContainerGoldenAqualis' (Nome: "Golden clam") - Tipo: GroupConstructible
+128. ID: 'CookCake1' (Nome: "Birthday cake") - Tipo: GroupItem
+129. ID: 'CookChocolate' (Nome: "Chocolate") - Tipo: GroupItem
+130. ID: 'CookCocoaGrowable' (Nome: "Cocoa") - Tipo: GroupItem
+131. ID: 'CookCocoaSeed' (Nome: "Cocoa seed") - Tipo: GroupItem
+132. ID: 'CookCookie1' (Nome: "Cookie") - Tipo: GroupItem
+133. ID: 'CookCroissant' (Nome: "Croissant") - Tipo: GroupItem
+134. ID: 'CookFlour' (Nome: "Flour") - Tipo: GroupItem
+135. ID: 'CookingStation1' (Nome: "Cooking station") - Tipo: GroupConstructible
+136. ID: 'CookStew1' (Nome: "Honey cooked beans") - Tipo: GroupItem
+137. ID: 'CookStewFish1' (Nome: "Fish soup") - Tipo: GroupItem
+138. ID: 'CookWheatGrowable' (Nome: "Wheat") - Tipo: GroupItem
+139. ID: 'CookWheatSeed' (Nome: "Wheat seeds") - Tipo: GroupItem
+140. ID: 'CosmicQuartz' (Nome: "Cosmic Quartz") - Tipo: GroupItem
+141. ID: 'Counter1' (Nome: "Countertop") - Tipo: GroupConstructible
+142. ID: 'Counter2' (Nome: "Countertop") - Tipo: GroupConstructible
+143. ID: 'CraftStation1' (Nome: "T2 Craft Station") - Tipo: GroupConstructible
+144. ID: 'CraftStation2' (Nome: "Advanced Craft Station") - Tipo: GroupConstructible
+145. ID: 'DebrisContainer1' (Nome: "Container from space") - Tipo: GroupItem
+146. ID: 'DeparturePlatform' (Nome: "Extraction platform") - Tipo: GroupConstructible
+147. ID: 'Desktop1' (Nome: "Desktop") - Tipo: GroupConstructible
+148. ID: 'Desktop2' (Nome: "Desktop") - Tipo: GroupConstructible
+149. ID: 'Destructor1' (Nome: "Shredder machine") - Tipo: GroupConstructible
+150. ID: 'DisplayCase' (Nome: "Display case") - Tipo: GroupConstructible
+151. ID: 'DNASequence' (Nome: "Creature DNA") - Tipo: GroupItem
+152. ID: 'Dolomite' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+153. ID: 'door' (Nome: "Living compartment door") - Tipo: GroupConstructible
+154. ID: 'Drill0' (Nome: "T1 Drill") - Tipo: GroupConstructible
+155. ID: 'Drill1' (Nome: "T2 Drill") - Tipo: GroupConstructible
+156. ID: 'Drill2' (Nome: "T3 Drill") - Tipo: GroupConstructible
+157. ID: 'Drill3' (Nome: "T4 Drill") - Tipo: GroupConstructible
+158. ID: 'Drill4' (Nome: "T5 Drill") - Tipo: GroupConstructible
+159. ID: 'Drone1' (Nome: "T1 Drone") - Tipo: GroupItem
+160. ID: 'Drone2' (Nome: "T2 Drone") - Tipo: GroupItem
+161. ID: 'DroneExplodable' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+162. ID: 'DroneLog' (Nome: "Drone's Log") - Tipo: GroupItem
+163. ID: 'DroneStation1' (Nome: "Drone station") - Tipo: GroupConstructible
+164. ID: 'Ecosystem1' (Nome: "Ecosystem") - Tipo: GroupConstructible
+165. ID: 'Elevator' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+166. ID: 'EndingExplosives' (Nome: "Large explosive device") - Tipo: GroupConstructible
+167. ID: 'EnergyGenerator1' (Nome: "Wind turbine") - Tipo: GroupConstructible
+168. ID: 'EnergyGenerator2' (Nome: "T1 Solar Panel") - Tipo: GroupConstructible
+169. ID: 'EnergyGenerator3' (Nome: "T2 Solar Panel") - Tipo: GroupConstructible
+170. ID: 'EnergyGenerator4' (Nome: "T1 Nuclear Reactor") - Tipo: GroupConstructible
+171. ID: 'EnergyGenerator5' (Nome: "T2 Nuclear Reactor") - Tipo: GroupConstructible
+172. ID: 'EnergyGenerator6' (Nome: "Nuclear Fusion generator") - Tipo: GroupConstructible
+173. ID: 'EquipmentIncrease1' (Nome: "T1 Exoskeleton") - Tipo: GroupItem
+174. ID: 'EquipmentIncrease2' (Nome: "T2 Exoskeleton") - Tipo: GroupItem
+175. ID: 'EquipmentIncrease3' (Nome: "T3 Exoskeleton") - Tipo: GroupItem
+176. ID: 'EquipmentIncrease4' (Nome: "T4 Exoskeleton") - Tipo: GroupItem
+177. ID: 'EscapePod' (Nome: "Escape pod") - Tipo: GroupConstructible
+178. ID: 'EscapePodHumble' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+179. ID: 'EscapePodInterplanetary' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+180. ID: 'ExerciseBike1' (Nome: "Indoor bike ") - Tipo: GroupConstructible
+181. ID: 'Explosive' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+182. ID: 'FabricBlue' (Nome: "Fabric") - Tipo: GroupItem
+183. ID: 'Farm1' (Nome: "Outdoor farm") - Tipo: GroupConstructible
+184. ID: 'Farm2' (Nome: "T2 Outdoor farm") - Tipo: GroupConstructible
+185. ID: 'Faucet1' (Nome: "Faucet") - Tipo: GroupConstructible
+186. ID: 'Fence' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+187. ID: 'Fertilizer1' (Nome: "Fertilizer") - Tipo: GroupItem
+188. ID: 'Fertilizer2' (Nome: "T2 Fertilizer") - Tipo: GroupItem
+189. ID: 'Fertilizer3' (Nome: "T3 Fertilizer") - Tipo: GroupItem
+190. ID: 'Fireplace' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+191. ID: 'Fish10Eggs' (Nome: "Tiloo fish eggs") - Tipo: GroupItem
+192. ID: 'Fish10Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+193. ID: 'Fish11Eggs' (Nome: "Golden fish eggs") - Tipo: GroupItem
+194. ID: 'Fish11Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+195. ID: 'Fish12Eggs' (Nome: "Velkia fish eggs") - Tipo: GroupItem
+196. ID: 'Fish12Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+197. ID: 'Fish13Eggs' (Nome: "Galbea fish eggs") - Tipo: GroupItem
+198. ID: 'Fish13Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+199. ID: 'Fish14Eggs' (Nome: "Stabu fish eggs") - Tipo: GroupItem
+200. ID: 'Fish14Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+201. ID: 'Fish15Eggs' (Nome: "Atabu fish eggs") - Tipo: GroupItem
+202. ID: 'Fish15Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+203. ID: 'Fish1Eggs' (Nome: "Provios fish eggs") - Tipo: GroupItem
+204. ID: 'Fish1Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+205. ID: 'Fish2Eggs' (Nome: "Vilnus fish eggs") - Tipo: GroupItem
+206. ID: 'Fish2Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+207. ID: 'Fish3Eggs' (Nome: "Gerrero fish eggs") - Tipo: GroupItem
+208. ID: 'Fish3Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+209. ID: 'Fish4Eggs' (Nome: "Khrom fish eggs") - Tipo: GroupItem
+210. ID: 'Fish4Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+211. ID: 'Fish5Eggs' (Nome: "Ulani fish eggs") - Tipo: GroupItem
+212. ID: 'Fish5Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+213. ID: 'Fish6Eggs' (Nome: "Aelera fish eggs") - Tipo: GroupItem
+214. ID: 'Fish6Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+215. ID: 'Fish7Eggs' (Nome: "Tegede fish eggs") - Tipo: GroupItem
+216. ID: 'Fish7Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+217. ID: 'Fish8Eggs' (Nome: "Ecaru fish eggs") - Tipo: GroupItem
+218. ID: 'Fish8Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+219. ID: 'Fish9Eggs' (Nome: "Buyu fish eggs") - Tipo: GroupItem
+220. ID: 'Fish9Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+221. ID: 'FishDisplayer1' (Nome: "Fish display") - Tipo: GroupConstructible
+222. ID: 'FishFarm1' (Nome: "Fish farm") - Tipo: GroupConstructible
+223. ID: 'FishFarm2' (Nome: "T2 Fish farm") - Tipo: GroupConstructible
+224. ID: 'Flare' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+225. ID: 'FloorGlass' (Nome: "Living compartment glass") - Tipo: GroupConstructible
+226. ID: 'FlowerPot1' (Nome: "Flower Pot") - Tipo: GroupConstructible
+227. ID: 'FlowerPot2' (Nome: "Hanging flower Pot") - Tipo: GroupConstructible
+228. ID: 'FlowerPot3' (Nome: "Big flower pot") - Tipo: GroupConstructible
+229. ID: 'Foundation' (Nome: "Foundation grid") - Tipo: GroupConstructible
+230. ID: 'FoundationAngle' (Nome: "Foundation – Angle") - Tipo: GroupConstructible
+231. ID: 'FoundationSlope' (Nome: "Foundation – Slope") - Tipo: GroupConstructible
+232. ID: 'FountainBig' (Nome: "Fountain") - Tipo: GroupConstructible
+233. ID: 'Fridge1' (Nome: "Fridge") - Tipo: GroupConstructible
+234. ID: 'Frog10Eggs' (Nome: "Kenjoss frog eggs") - Tipo: GroupItem
+235. ID: 'Frog10Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+236. ID: 'Frog11Eggs' (Nome: "Lavaum frog eggs") - Tipo: GroupItem
+237. ID: 'Frog11Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+238. ID: 'Frog12Eggs' (Nome: "Leglus frog eggs") - Tipo: GroupItem
+239. ID: 'Frog12Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+240. ID: 'Frog13Eggs' (Nome: "Jumi frog eggs") - Tipo: GroupItem
+241. ID: 'Frog13Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+242. ID: 'Frog14Eggs' (Nome: "Seren frog eggs") - Tipo: GroupItem
+243. ID: 'Frog14Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+244. ID: 'Frog15Eggs' (Nome: "Acuzzi frog eggs") - Tipo: GroupItem
+245. ID: 'Frog15Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+246. ID: 'Frog1Eggs' (Nome: "Generic frog eggs") - Tipo: GroupItem
+247. ID: 'Frog1Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+248. ID: 'Frog2Eggs' (Nome: "Huli frog eggs") - Tipo: GroupItem
+249. ID: 'Frog2Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+250. ID: 'Frog3Eggs' (Nome: "Felicianna frog eggs") - Tipo: GroupItem
+251. ID: 'Frog3Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+252. ID: 'Frog4Eggs' (Nome: "Strabo frog eggs") - Tipo: GroupItem
+253. ID: 'Frog4Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+254. ID: 'Frog5Eggs' (Nome: "Trajuu frog eggs") - Tipo: GroupItem
+255. ID: 'Frog5Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+256. ID: 'Frog6Eggs' (Nome: "Aiolus frog eggs") - Tipo: GroupItem
+257. ID: 'Frog6Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+258. ID: 'Frog7Eggs' (Nome: "Afae frog eggs") - Tipo: GroupItem
+259. ID: 'Frog7Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+260. ID: 'Frog8Eggs' (Nome: "Cillus frog eggs") - Tipo: GroupItem
+261. ID: 'Frog8Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+262. ID: 'Frog9Eggs' (Nome: "Amedo frog eggs") - Tipo: GroupItem
+263. ID: 'Frog9Hatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+264. ID: 'FrogDisplayer1' (Nome: "Frog displayer") - Tipo: GroupConstructible
+265. ID: 'FrogGoldEggs' (Nome: "Golden frog eggs") - Tipo: GroupItem
+266. ID: 'FrogGoldHatched' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+267. ID: 'FuseAnimals1' (Nome: "Animals multiplier fuse") - Tipo: GroupItem
+268. ID: 'FuseCartridge' (Nome: "Fuse cartdrige") - Tipo: GroupItem
+269. ID: 'FuseEnergy1' (Nome: "Energy multiplier fuse") - Tipo: GroupItem
+270. ID: 'FuseGrowth1' (Nome: "Growth multiplier fuse") - Tipo: GroupItem
+271. ID: 'FuseHeat1' (Nome: "Heat multiplier fuse") - Tipo: GroupItem
+272. ID: 'FuseInsects1' (Nome: "Insects multiplier fuse") - Tipo: GroupItem
+273. ID: 'FuseOxygen1' (Nome: "Oxygen multiplier fuse") - Tipo: GroupItem
+274. ID: 'FusePlants1' (Nome: "Plant multiplier fuse") - Tipo: GroupItem
+275. ID: 'FusePressure1' (Nome: "Pressure multiplier fuse") - Tipo: GroupItem
+276. ID: 'FuseProduction1' (Nome: "Production multiplier fuse") - Tipo: GroupItem
+277. ID: 'FuseTradeRocketsSpeed1' (Nome: "Trade rocket multiplier fuse") - Tipo: GroupItem
+278. ID: 'FusionEnergyCell' (Nome: "Fusion Energy Cell") - Tipo: GroupItem
+279. ID: 'FusionGenerator1' (Nome: "Fusion reactor") - Tipo: GroupConstructible
+280. ID: 'GasExtractor1' (Nome: "Gas Extractor") - Tipo: GroupConstructible
+281. ID: 'GasExtractor2' (Nome: "T2 Gas Extractor") - Tipo: GroupConstructible
+282. ID: 'GeneticExtractor1' (Nome: "Genetic extractor") - Tipo: GroupConstructible
+283. ID: 'GeneticManipulator1' (Nome: "DNA Manipulator") - Tipo: GroupConstructible
+284. ID: 'GeneticSynthetizer1' (Nome: "Genetic synthesizer") - Tipo: GroupConstructible
+285. ID: 'GeneticTrait' (Nome: "Genetic trait") - Tipo: GroupItem
+286. ID: 'GoldenContainer' (Nome: "Golden Crate") - Tipo: GroupConstructible
+287. ID: 'GoldenEffigie1' (Nome: "Golden effigy") - Tipo: GroupConstructible
+288. ID: 'GoldenEffigie2' (Nome: "Golden effigy") - Tipo: GroupConstructible
+289. ID: 'GoldenEffigie3' (Nome: "Golden effigy") - Tipo: GroupConstructible
+290. ID: 'GoldenEffigie4' (Nome: "Golden effigy") - Tipo: GroupConstructible
+291. ID: 'GoldenEffigie5' (Nome: "Golden effigy") - Tipo: GroupConstructible
+292. ID: 'GoldenEffigie6' (Nome: "Golden effigy") - Tipo: GroupConstructible
+293. ID: 'GoldenEffigie7' (Nome: "Golden effigy") - Tipo: GroupConstructible
+294. ID: 'GoldenEffigie8' (Nome: "Golden effigy") - Tipo: GroupConstructible
+295. ID: 'GoldenEffigie9' (Nome: "Golden effigy") - Tipo: GroupConstructible
+296. ID: 'GrassSpreader1' (Nome: "Grass Spreader") - Tipo: GroupConstructible
+297. ID: 'HarvestingRobot1' (Nome: "Harvesting robot") - Tipo: GroupConstructible
+298. ID: 'Heater1' (Nome: "T1 Heater") - Tipo: GroupConstructible
+299. ID: 'Heater2' (Nome: "T2 Heater") - Tipo: GroupConstructible
+300. ID: 'Heater3' (Nome: "T3 Heater") - Tipo: GroupConstructible
+301. ID: 'Heater4' (Nome: "t4 Heater") - Tipo: GroupConstructible
+302. ID: 'Heater5' (Nome: "T5 Heater") - Tipo: GroupConstructible
+303. ID: 'HologramGenerator' (Nome: "Hologram projector") - Tipo: GroupConstructible
+304. ID: 'honey' (Nome: "Honey") - Tipo: GroupItem
+305. ID: 'HudChipCleanConstruction' (Nome: "Microchip – Construction menu filter") - Tipo: GroupItem
+306. ID: 'HudCompass' (Nome: "Microchip - Compass") - Tipo: GroupItem
+307. ID: 'ice' (Nome: "Ice") - Tipo: GroupItem
+308. ID: 'Incubator1' (Nome: "Incubator") - Tipo: GroupConstructible
+309. ID: 'InsideLamp1' (Nome: "Area Lamp") - Tipo: GroupConstructible
+310. ID: 'InteriorStairs1' (Nome: "Interior stairs") - Tipo: GroupConstructible
+311. ID: 'InterplanetaryExchangePlatform1' (Nome: "Interplanetary exchange shuttle") - Tipo: GroupConstructible
+312. ID: 'Iridium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+313. ID: 'Iron' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+314. ID: 'Ivy1' (Nome: "Ivy") - Tipo: GroupConstructible
+315. ID: 'Jetpack1' (Nome: "T1 Jetpack") - Tipo: GroupItem
+316. ID: 'Jetpack2' (Nome: "T2 Jetpack") - Tipo: GroupItem
+317. ID: 'Jetpack3' (Nome: "T3 Jetpack") - Tipo: GroupItem
+318. ID: 'Jetpack4' (Nome: "T4 Jetpack") - Tipo: GroupItem
+319. ID: 'Jetpack5' (Nome: "T5 Jetpack") - Tipo: GroupItem
+320. ID: 'Keycard1' (Nome: "Access card") - Tipo: GroupItem
+321. ID: 'KeyCard2' (Nome: "Access card") - Tipo: GroupItem
+322. ID: 'Ladder' (Nome: "Indoor ladder") - Tipo: GroupConstructible
+323. ID: 'LarvaeBase1' (Nome: "Common larva") - Tipo: GroupItem
+324. ID: 'LarvaeBase2' (Nome: "Uncommon larva") - Tipo: GroupItem
+325. ID: 'LarvaeBase3' (Nome: "Rare larva") - Tipo: GroupItem
+326. ID: 'LaunchPlatform' (Nome: "Launch Platform") - Tipo: GroupConstructible
+327. ID: 'Library1' (Nome: "Library") - Tipo: GroupConstructible
+328. ID: 'LightBoxMedium' (Nome: "Light Box") - Tipo: GroupConstructible
+329. ID: 'Magnesium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+330. ID: 'MagnetarQuartz' (Nome: "Magnetar Quartz") - Tipo: GroupItem
+331. ID: 'MapChip' (Nome: "Microchip – Map") - Tipo: GroupItem
+332. ID: 'Megadome1' (Nome: "Megadome") - Tipo: GroupConstructible
+333. ID: 'MethanCapsule1' (Nome: "Methane cartridge") - Tipo: GroupItem
+334. ID: 'MultiBuild' (Nome: "Microchip - Construction") - Tipo: GroupItem
+335. ID: 'MultiDeconstruct' (Nome: "Microchip - Deconstruction") - Tipo: GroupItem
+336. ID: 'MultiToolDeconstruct2' (Nome: "Microchip – T2 Deconstruction") - Tipo: GroupItem
+337. ID: 'MultiToolDeconstruct3' (Nome: "Microchip – T3 Deconstruction") - Tipo: GroupItem
+338. ID: 'MultiToolLight' (Nome: "Microchip - Torch") - Tipo: GroupItem
+339. ID: 'MultiToolLight2' (Nome: "Microchip – T2 Torch") - Tipo: GroupItem
+340. ID: 'MultiToolLight3' (Nome: "Microchip – T3 Torch") - Tipo: GroupItem
+341. ID: 'MultiToolMineSpeed1' (Nome: "Microchip - T1 Mining Speed") - Tipo: GroupItem
+342. ID: 'MultiToolMineSpeed2' (Nome: "Microchip - T2 Mining Speed") - Tipo: GroupItem
+343. ID: 'MultiToolMineSpeed3' (Nome: "Microchip - T3 Mining Speed") - Tipo: GroupItem
+344. ID: 'MultiToolMineSpeed4' (Nome: "Microchip - T4 Mining Speed") - Tipo: GroupItem
+345. ID: 'Mutagen1' (Nome: "Mutagen") - Tipo: GroupItem
+346. ID: 'Mutagen2' (Nome: "T2 Mutagen") - Tipo: GroupItem
+347. ID: 'Mutagen3' (Nome: "T3 Mutagen") - Tipo: GroupItem
+348. ID: 'Mutagen4' (Nome: "T4 Mutagen") - Tipo: GroupItem
+349. ID: 'NitrogenCapsule1' (Nome: "Nitrogen cartridge") - Tipo: GroupItem
+350. ID: 'Obsidian' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+351. ID: 'Optimizer1' (Nome: "Machine optimizer") - Tipo: GroupConstructible
+352. ID: 'Optimizer2' (Nome: "T2 Machine Optimizer") - Tipo: GroupConstructible
+353. ID: 'OreBreaker1' (Nome: "T1 Ore Crusher") - Tipo: GroupConstructible
+354. ID: 'OreBreaker2' (Nome: "T2 Ore Crusher") - Tipo: GroupConstructible
+355. ID: 'OreBreaker3' (Nome: "T3 Ore Crusher") - Tipo: GroupConstructible
+356. ID: 'OreExtractor1' (Nome: "Ore Extractor") - Tipo: GroupConstructible
+357. ID: 'OreExtractor2' (Nome: "T2 Ore Extractor") - Tipo: GroupConstructible
+358. ID: 'OreExtractor3' (Nome: "T3 Ore Extractor") - Tipo: GroupConstructible
+359. ID: 'Osmium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+360. ID: 'OutsideLamp1' (Nome: "Outdoor lamp") - Tipo: GroupConstructible
+361. ID: 'OxygenCapsule1' (Nome: "Oxygen capsule") - Tipo: GroupItem
+362. ID: 'OxygenTank1' (Nome: "T1 Oxygen Tank") - Tipo: GroupItem
+363. ID: 'OxygenTank2' (Nome: "T2 Oxygen Tank") - Tipo: GroupItem
+364. ID: 'OxygenTank3' (Nome: "T3 Oxygen Tank") - Tipo: GroupItem
+365. ID: 'OxygenTank4' (Nome: "T4 Oxygen Tank") - Tipo: GroupItem
+366. ID: 'OxygenTank5' (Nome: "T5 Oxygen Tank") - Tipo: GroupItem
+367. ID: 'Phosphorus' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+368. ID: 'Phytoplankton1' (Nome: "Phytoplankton A") - Tipo: GroupItem
+369. ID: 'Phytoplankton2' (Nome: "Phytoplankton B") - Tipo: GroupItem
+370. ID: 'Phytoplankton3' (Nome: "Phytoplankton C") - Tipo: GroupItem
+371. ID: 'Phytoplankton4' (Nome: "Phytoplankton D") - Tipo: GroupItem
+372. ID: 'PinChip1' (Nome: "Microchip – T1 Blueprint Pinning") - Tipo: GroupItem
+373. ID: 'PinChip2' (Nome: "Microchip – T2 Blueprint pinning") - Tipo: GroupItem
+374. ID: 'PinChip3' (Nome: "Microchip – T3 Blueprint pinning") - Tipo: GroupItem
+375. ID: 'PlanetaryDeliveryDepot1' (Nome: "Planetary Delivery Depot") - Tipo: GroupConstructible
+376. ID: 'PlanetViewer1' (Nome: "Planet viewer") - Tipo: GroupConstructible
+377. ID: 'pod' (Nome: "Living compartment") - Tipo: GroupConstructible
+378. ID: 'Pod4x' (Nome: "Big living compartment") - Tipo: GroupConstructible
+379. ID: 'Pod9xA' (Nome: "Rounded living compartment") - Tipo: GroupConstructible
+380. ID: 'Pod9xB' (Nome: "Living compartment with dome") - Tipo: GroupConstructible
+381. ID: 'Pod9xC' (Nome: "3x3 Living compartment") - Tipo: GroupConstructible
+382. ID: 'podAngle' (Nome: "Living compartment corner") - Tipo: GroupConstructible
+383. ID: 'Pooltable1' (Nome: "Pool table") - Tipo: GroupConstructible
+384. ID: 'PortalGenerator1' (Nome: "Portal generator") - Tipo: GroupConstructible
+385. ID: 'Poster1' (Nome: "Poster A") - Tipo: GroupConstructible
+386. ID: 'Poster10' (Nome: "Poster J") - Tipo: GroupConstructible
+387. ID: 'Poster11' (Nome: "Poster K") - Tipo: GroupConstructible
+388. ID: 'Poster12' (Nome: "Poster L") - Tipo: GroupConstructible
+389. ID: 'Poster2' (Nome: "Poster B") - Tipo: GroupConstructible
+390. ID: 'Poster3' (Nome: "Poster C") - Tipo: GroupConstructible
+391. ID: 'Poster4' (Nome: "Poster D") - Tipo: GroupConstructible
+392. ID: 'Poster5' (Nome: "Poster E") - Tipo: GroupConstructible
+393. ID: 'Poster6' (Nome: "Poster F") - Tipo: GroupConstructible
+394. ID: 'Poster7' (Nome: "Poster G") - Tipo: GroupConstructible
+395. ID: 'Poster8' (Nome: "Poster H") - Tipo: GroupConstructible
+396. ID: 'Poster9' (Nome: "Poster I") - Tipo: GroupConstructible
+397. ID: 'ProceduralInstanceGenerator' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+398. ID: 'ProceduralWreckContainer1' (Nome: "Storage crate") - Tipo: GroupItem
+399. ID: 'ProceduralWreckContainer2' (Nome: "Storage crate") - Tipo: GroupItem
+400. ID: 'ProceduralWreckSafe' (Nome: "Big safe") - Tipo: GroupConstructible
+401. ID: 'PulsarQuartz' (Nome: "Pulsar Quartz") - Tipo: GroupItem
+402. ID: 'QuartzCraftStation1' (Nome: "Quartz craft station") - Tipo: GroupConstructible
+403. ID: 'QuasarQuartz' (Nome: "Quasar Quartz") - Tipo: GroupItem
+404. ID: 'RecyclingMachine' (Nome: "Recycling machine") - Tipo: GroupConstructible
+405. ID: 'RecyclingMachine2' (Nome: "T2 Recycling machine") - Tipo: GroupConstructible
+406. ID: 'RedPowder1' (Nome: "Explosive powder") - Tipo: GroupItem
+407. ID: 'RocketAnimals1' (Nome: "Animals spreader rocket") - Tipo: GroupItem
+408. ID: 'RocketBiomass1' (Nome: "Plant Rocket") - Tipo: GroupItem
+409. ID: 'RocketBiomass2' (Nome: "T2 Plant Rocket") - Tipo: GroupItem
+410. ID: 'RocketDeparture1' (Nome: "Extraction rocket") - Tipo: GroupItem
+411. ID: 'RocketDrones1' (Nome: "Drone visualization rocket") - Tipo: GroupItem
+412. ID: 'RocketHeat1' (Nome: "Asteroid attraction rocket") - Tipo: GroupItem
+413. ID: 'RocketHeat2' (Nome: "T2 Asteroid attraction rocket") - Tipo: GroupItem
+414. ID: 'RocketInformations1' (Nome: "Map information rocket") - Tipo: GroupItem
+415. ID: 'RocketInformations2' (Nome: "T2 Map information rocket") - Tipo: GroupItem
+416. ID: 'RocketInsects1' (Nome: "Insect spreader rocket") - Tipo: GroupItem
+417. ID: 'RocketInsects2' (Nome: "T2 Insect spreader rocket") - Tipo: GroupItem
+418. ID: 'RocketMap1' (Nome: "T1 GPS Satellite") - Tipo: GroupItem
+419. ID: 'RocketMap2' (Nome: "T2 GPS Satellite") - Tipo: GroupItem
+420. ID: 'RocketMap3' (Nome: "T3 GPS Satellite") - Tipo: GroupItem
+421. ID: 'RocketMap4' (Nome: "T4 GPS Satellite") - Tipo: GroupItem
+422. ID: 'RocketOxygen1' (Nome: "Seed spreader rocket") - Tipo: GroupItem
+423. ID: 'RocketPressure1' (Nome: "Magnetic field protection rocket") - Tipo: GroupItem
+424. ID: 'RocketPressure2' (Nome: "T2 Magnetic field protection rocket") - Tipo: GroupItem
+425. ID: 'RocketReactor' (Nome: "Rocket Engine") - Tipo: GroupItem
+426. ID: 'RocketReactor2' (Nome: "T2 Rocket Engine") - Tipo: GroupItem
+427. ID: 'RocketTravel1' (Nome: "Interplanetary travel rocket ") - Tipo: GroupItem
+428. ID: 'RockExplodable' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+429. ID: 'Rod-alloy' (Nome: "Super Alloy Rod") - Tipo: GroupItem
+430. ID: 'Rod-iridium' (Nome: "Iridium Rod") - Tipo: GroupItem
+431. ID: 'Rod-osmium' (Nome: "Osmium Rod") - Tipo: GroupItem
+432. ID: 'Rod-uranium' (Nome: "Uranium Rod") - Tipo: GroupItem
+433. ID: 'ScreenBiomass' (Nome: "Biomass screen") - Tipo: GroupConstructible
+434. ID: 'ScreenEnergy' (Nome: "Screen - Energy levels") - Tipo: GroupConstructible
+435. ID: 'ScreenMap1' (Nome: "Screen - Mapping") - Tipo: GroupConstructible
+436. ID: 'ScreenMessage' (Nome: "Screen - Transmissions") - Tipo: GroupConstructible
+437. ID: 'ScreenRockets' (Nome: "Screen – Orbital information") - Tipo: GroupConstructible
+438. ID: 'ScreenSystem1' (Nome: "Solar system screen") - Tipo: GroupConstructible
+439. ID: 'ScreenTerraformation' (Nome: "Screen - Terraformation") - Tipo: GroupConstructible
+440. ID: 'ScreenTerraStage' (Nome: "Screen - Progress") - Tipo: GroupConstructible
+441. ID: 'ScreenUnlockables' (Nome: "Screen - Blueprints") - Tipo: GroupConstructible
+442. ID: 'Seed0' (Nome: "Lirma Seed") - Tipo: GroupItem
+443. ID: 'Seed0Growable' (Nome: "Lirma Plant") - Tipo: GroupItem
+444. ID: 'Seed1' (Nome: "Shanga Seed") - Tipo: GroupItem
+445. ID: 'Seed10Humble' (Nome: "Furteo Seed") - Tipo: GroupItem
+446. ID: 'Seed10HumbleGrowable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+447. ID: 'Seed11Humble' (Nome: "Humblea Seed") - Tipo: GroupItem
+448. ID: 'Seed11HumbleGrowable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+449. ID: 'Seed1Growable' (Nome: "Shanga Plant") - Tipo: GroupItem
+450. ID: 'Seed2' (Nome: "Pestera Seed") - Tipo: GroupItem
+451. ID: 'Seed2Growable' (Nome: "Pestera Plant") - Tipo: GroupItem
+452. ID: 'Seed3' (Nome: "Nulna Seed") - Tipo: GroupItem
+453. ID: 'Seed3Growable' (Nome: "Nulna Plant") - Tipo: GroupItem
+454. ID: 'Seed4' (Nome: "Tuska Seed") - Tipo: GroupItem
+455. ID: 'Seed4Growable' (Nome: "Tuska Plant") - Tipo: GroupItem
+456. ID: 'Seed5' (Nome: "Orema plant") - Tipo: GroupItem
+457. ID: 'Seed5Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+458. ID: 'Seed6' (Nome: "Volnus plant") - Tipo: GroupItem
+459. ID: 'Seed6Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+460. ID: 'Seed7Humble' (Nome: "Snepea Seed") - Tipo: GroupItem
+461. ID: 'Seed7HumbleGrowable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+462. ID: 'Seed8Humble' (Nome: "Brelea Seed") - Tipo: GroupItem
+463. ID: 'Seed8HumbleGrowable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+464. ID: 'Seed9Humble' (Nome: "Seleus Seed") - Tipo: GroupItem
+465. ID: 'Seed9HumbleGrowable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+466. ID: 'SeedGold' (Nome: "Golden Seed") - Tipo: GroupItem
+467. ID: 'SeedGoldGrowable' (Nome: "Golden Plant") - Tipo: GroupItem
+468. ID: 'SeedSpreader1' (Nome: "Flower Spreader") - Tipo: GroupConstructible
+469. ID: 'SeedSpreader2' (Nome: "T2 Flower Spreader") - Tipo: GroupConstructible
+470. ID: 'Selenium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+471. ID: 'Server1' (Nome: "Server") - Tipo: GroupConstructible
+472. ID: 'Shelves1' (Nome: "Shelves") - Tipo: GroupConstructible
+473. ID: 'Sign' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+474. ID: 'Silicon' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+475. ID: 'Silk' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+476. ID: 'SilkGenerator' (Nome: "Silk generator") - Tipo: GroupConstructible
+477. ID: 'SilkWorm' (Nome: "Silkworm") - Tipo: GroupItem
+478. ID: 'Skin-01' (Nome: "Spacesuit Comto") - Tipo: GroupItem
+479. ID: 'Skin-02' (Nome: "Spacesuit Blasto") - Tipo: GroupItem
+480. ID: 'Skin-03' (Nome: "Spacesuit Primo") - Tipo: GroupItem
+481. ID: 'Skin-04' (Nome: "Spacesuit Goldeo") - Tipo: GroupItem
+482. ID: 'Skin-05' (Nome: "Spacesuit Scifo") - Tipo: GroupItem
+483. ID: 'Skin-06' (Nome: "Spacesuit Cipto") - Tipo: GroupItem
+484. ID: 'Skin-07' (Nome: "Spacesuit Beteo") - Tipo: GroupItem
+485. ID: 'Skin-08' (Nome: "Spacesuit Tureo") - Tipo: GroupItem
+486. ID: 'Skin-09' (Nome: "Spacesuit Fablo") - Tipo: GroupItem
+487. ID: 'Skin-10' (Nome: "Spacesuit Tubio") - Tipo: GroupItem
+488. ID: 'Skin-11' (Nome: "Spacesuit Vateo") - Tipo: GroupItem
+489. ID: 'Skin-12' (Nome: "Spacesuit Widio") - Tipo: GroupItem
+490. ID: 'Skin-13' (Nome: "Spacesuit Mekio") - Tipo: GroupItem
+491. ID: 'Skin-14' (Nome: "Spacesuit Abyso") - Tipo: GroupItem
+492. ID: 'Skin-15' (Nome: "Spacesuit Ettio") - Tipo: GroupItem
+493. ID: 'Skin-16' (Nome: "Spacesuit Plesao") - Tipo: GroupItem
+494. ID: 'Skin-17' (Nome: "Spacesuit Rorao") - Tipo: GroupItem
+495. ID: 'Skin-18' (Nome: "Spacesuit Starforma") - Tipo: GroupItem
+496. ID: 'Skin-19' (Nome: "Spacesuit Glitx") - Tipo: GroupItem
+497. ID: 'Skin-20' (Nome: "Spacesuit Colonnya") - Tipo: GroupItem
+498. ID: 'Skin-21' (Nome: "Spacesuit Sunsio") - Tipo: GroupItem
+499. ID: 'SkinDisplayer' (Nome: "Spacesuit Displayer") - Tipo: GroupConstructible
+500. ID: 'SmartFabric' (Nome: "Smart fabric") - Tipo: GroupItem
+501. ID: 'Sofa' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+502. ID: 'SofaAngle' (Nome: "Corner sofa") - Tipo: GroupConstructible
+503. ID: 'SofaAngleColored' (Nome: "Customizable corner sofa") - Tipo: GroupConstructible
+504. ID: 'SofaColored' (Nome: "Customizable sofa") - Tipo: GroupConstructible
+505. ID: 'SolarQuartz' (Nome: "Solar Quartz") - Tipo: GroupItem
+506. ID: 'SpaceMultiplierAnimals' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+507. ID: 'SpaceMultiplierBiomass' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+508. ID: 'SpaceMultiplierHeat' (Nome: "Space heat multiplier") - Tipo: GroupConstructible
+509. ID: 'SpaceMultiplierInsects' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+510. ID: 'SpaceMultiplierOxygen' (Nome: "Space oxygen multiplier") - Tipo: GroupConstructible
+511. ID: 'SpaceMultiplierPlants' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+512. ID: 'SpaceMultiplierPressure' (Nome: "Space pressure multiplier") - Tipo: GroupConstructible
+513. ID: 'Stairs' (Nome: "Outdoor stairs") - Tipo: GroupConstructible
+514. ID: 'StarformContainer' (Nome: "Starform Crate") - Tipo: GroupConstructible
+515. ID: 'StarformEffigie1' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+516. ID: 'StarformEffigie2' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+517. ID: 'StarformEffigie3' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+518. ID: 'StarformEffigie4' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+519. ID: 'StarformEffigie5' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+520. ID: 'StarformEffigie6' (Nome: "Starform Effigy") - Tipo: GroupConstructible
+521. ID: 'Sulfur' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+522. ID: 'Table1' (Nome: "Big table") - Tipo: GroupConstructible
+523. ID: 'TableSmall' (Nome: "Table") - Tipo: GroupConstructible
+524. ID: 'TableSmall2' (Nome: "Small table") - Tipo: GroupConstructible
+525. ID: 'TableSmall3' (Nome: "Glass table") - Tipo: GroupConstructible
+526. ID: 'Teleporter1' (Nome: "Teleporter") - Tipo: GroupConstructible
+527. ID: 'TerraTokens100' (Nome: "Terra Tokens: 100") - Tipo: GroupItem
+528. ID: 'TerraTokens1000' (Nome: "Terra Tokens: 1000") - Tipo: GroupItem
+529. ID: 'TerraTokens500' (Nome: "Terra Tokens: 500") - Tipo: GroupItem
+530. ID: 'TerraTokens5000' (Nome: "Terra Tokens: 5000") - Tipo: GroupItem
+531. ID: 'Titanium' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+532. ID: 'TradePlatform1' (Nome: "Trade space rocket") - Tipo: GroupConstructible
+533. ID: 'Trashcan1' (Nome: "Trash can") - Tipo: GroupConstructible
+534. ID: 'Treadmill1' (Nome: "Treadmill") - Tipo: GroupConstructible
+535. ID: 'Tree0Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+536. ID: 'Tree0Seed' (Nome: "Iterra tree seed") - Tipo: GroupItem
+537. ID: 'Tree10Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+538. ID: 'Tree10Seed' (Nome: "Rosea tree seed") - Tipo: GroupItem
+539. ID: 'Tree11Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+540. ID: 'Tree11Seed' (Nome: "Lillia tree seed") - Tipo: GroupItem
+541. ID: 'Tree12Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+542. ID: 'Tree12Seed' (Nome: "Prunea tree seed") - Tipo: GroupItem
+543. ID: 'Tree13Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+544. ID: 'Tree13Seed' (Nome: "Ruberu tree seed") - Tipo: GroupItem
+545. ID: 'Tree14Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+546. ID: 'Tree14Seed' (Nome: "Malissea tree seed") - Tipo: GroupItem
+547. ID: 'Tree15Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+548. ID: 'Tree15Seed' (Nome: "Redwo tree seed") - Tipo: GroupItem
+549. ID: 'Tree16Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+550. ID: 'Tree16Seed' (Nome: "Pamelia tree seed") - Tipo: GroupItem
+551. ID: 'Tree1Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+552. ID: 'Tree1Seed' (Nome: "Linifolia tree seed") - Tipo: GroupItem
+553. ID: 'Tree2Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+554. ID: 'Tree2Seed' (Nome: "Aleatus tree seed") - Tipo: GroupItem
+555. ID: 'Tree3Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+556. ID: 'Tree3Seed' (Nome: "Cernea tree seed") - Tipo: GroupItem
+557. ID: 'Tree4Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+558. ID: 'Tree4Seed' (Nome: "Elegea tree seed") - Tipo: GroupItem
+559. ID: 'Tree5Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+560. ID: 'Tree5Seed' (Nome: "Humelora tree seed") - Tipo: GroupItem
+561. ID: 'Tree6Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+562. ID: 'Tree6Seed' (Nome: "Aemora tree seed") - Tipo: GroupItem
+563. ID: 'Tree7Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+564. ID: 'Tree7Seed' (Nome: "Pleom tree seed") - Tipo: GroupItem
+565. ID: 'Tree8Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+566. ID: 'Tree8Seed' (Nome: "Soleus tree seed") - Tipo: GroupItem
+567. ID: 'Tree9Growable' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+568. ID: 'Tree9Seed' (Nome: "Shreox tree seed") - Tipo: GroupItem
+569. ID: 'TreePlanter' (Nome: "Tree pot") - Tipo: GroupConstructible
+570. ID: 'TreePlanter2' (Nome: "Bonzaï pot") - Tipo: GroupConstructible
+571. ID: 'TreeRoot' (Nome: "Tree bark") - Tipo: GroupItem
+572. ID: 'TreeSpreader0' (Nome: "Tree Spreader") - Tipo: GroupConstructible
+573. ID: 'TreeSpreader1' (Nome: "T2 Tree Spreader") - Tipo: GroupConstructible
+574. ID: 'TreeSpreader2' (Nome: "T3 Tree Spreader") - Tipo: GroupConstructible
+575. ID: 'Uranim' (Nome: "Uranium") - Tipo: GroupItem
+576. ID: 'Uraninite' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+577. ID: 'Vault1' (Nome: "Safe Vault") - Tipo: GroupConstructible
+578. ID: 'Vegetable0Growable' (Nome: "Eggplant") - Tipo: GroupItem
+579. ID: 'Vegetable0Seed' (Nome: "Eggplant seeds") - Tipo: GroupItem
+580. ID: 'Vegetable1Growable' (Nome: "Squash") - Tipo: GroupItem
+581. ID: 'Vegetable1Seed' (Nome: "Squash seeds") - Tipo: GroupItem
+582. ID: 'Vegetable2Growable' (Nome: "Beans") - Tipo: GroupItem
+583. ID: 'Vegetable2Seed' (Nome: "Bean seeds") - Tipo: GroupItem
+584. ID: 'Vegetable3Growable' (Nome: "Mushroom") - Tipo: GroupItem
+585. ID: 'Vegetable3Seed' (Nome: "Mushroom seeds") - Tipo: GroupItem
+586. ID: 'VegetableGrower1' (Nome: "Food Grower") - Tipo: GroupConstructible
+587. ID: 'VegetableGrower2' (Nome: "T2 Food Grower") - Tipo: GroupConstructible
+588. ID: 'Vegetube1' (Nome: "T1 Vegetube") - Tipo: GroupConstructible
+589. ID: 'Vegetube2' (Nome: "T2 Vegetube") - Tipo: GroupConstructible
+590. ID: 'VegetubeOutside1' (Nome: "T3 Vegetube") - Tipo: GroupConstructible
+591. ID: 'VehicleBeacon1' (Nome: "Vehicle – Beacon") - Tipo: GroupItem
+592. ID: 'VehicleCrafter1' (Nome: "Vehicle station") - Tipo: GroupConstructible
+593. ID: 'VehicleEquipmentSize1' (Nome: "Vehicle – T1 Equipment increase ") - Tipo: GroupItem
+594. ID: 'VehicleEquipmentSize2' (Nome: "Vehicle – T2 Equipment increase") - Tipo: GroupItem
+595. ID: 'VehicleInventorySize1' (Nome: "Vehicle – T1 Inventory increase ") - Tipo: GroupItem
+596. ID: 'VehicleInventorySize2' (Nome: "Vehicle – T2 Inventory increase ") - Tipo: GroupItem
+597. ID: 'VehicleInventorySize3' (Nome: "Vehicle – T3 Inventory increase ") - Tipo: GroupItem
+598. ID: 'VehicleLights1' (Nome: "Vehicle – T1 Lights") - Tipo: GroupItem
+599. ID: 'VehicleLights2' (Nome: "Vehicle – T2 Lights") - Tipo: GroupItem
+600. ID: 'VehicleLogistic1' (Nome: "Vehicle – Logistics") - Tipo: GroupItem
+601. ID: 'VehicleOxygen1' (Nome: "Vehicle – Unlimited oxygen") - Tipo: GroupItem
+602. ID: 'VehicleSpeed1' (Nome: "Vehicle – T1 Speed increase ") - Tipo: GroupItem
+603. ID: 'VehicleSpeed2' (Nome: "Vehicle – T2 Speed increase ") - Tipo: GroupItem
+604. ID: 'VehicleSpeed3' (Nome: "Vehicle – T3 Speed increase ") - Tipo: GroupItem
+605. ID: 'VehicleSpeed4' (Nome: "Vehicle – T4 Speed increase ") - Tipo: GroupItem
+606. ID: 'VehicleTruck' (Nome: "Vehicle – Rover") - Tipo: GroupItem
+607. ID: 'WallInside' (Nome: "Interior wall") - Tipo: GroupConstructible
+608. ID: 'wallplain' (Nome: "Plain wall") - Tipo: GroupConstructible
+609. ID: 'WardenAustel' (Nome: "Warden's altar") - Tipo: GroupConstructible
+610. ID: 'WardenKey' (Nome: "Warden's key") - Tipo: GroupItem
+611. ID: 'WardensChip' (Nome: "Warden key detector") - Tipo: GroupItem
+612. ID: 'WaterBottle1' (Nome: "Water bottle") - Tipo: GroupItem
+613. ID: 'WaterCollector1' (Nome: "Atmospheric Water Collector") - Tipo: GroupConstructible
+614. ID: 'WaterCollector2' (Nome: "Lake Water Collector") - Tipo: GroupConstructible
+615. ID: 'WaterFilter' (Nome: "Water Filter") - Tipo: GroupItem
+616. ID: 'WaterLifeCollector1' (Nome: "Water life collector") - Tipo: GroupConstructible
+617. ID: 'window' (Nome: "Living compartment window") - Tipo: GroupConstructible
+618. ID: 'WindTurbine1' (Nome: "T2 Wind turbine") - Tipo: GroupConstructible
+619. ID: 'WreckEntryLocked1' (Nome: "Access Console") - Tipo: GroupConstructible
+620. ID: 'WreckEntryLocked2' (Nome: "Access Console") - Tipo: GroupConstructible
+621. ID: 'WreckFusionGenerator' (Nome: "Fusion reactor") - Tipo: GroupConstructible
+622. ID: 'wreckpilar' (Nome: "Debris") - Tipo: GroupConstructible
+623. ID: 'WreckRockExplodable' - Tipo: GroupConstructible (Nome Display non trovato o uguale all'ID)
+624. ID: 'WreckSafe' (Nome: "Big safe") - Tipo: GroupConstructible
+625. ID: 'WreckServer' (Nome: "Technical debris") - Tipo: GroupConstructible
+626. ID: 'WreckWardrobe' (Nome: "Spacesuits locker") - Tipo: GroupConstructible
+627. ID: 'Zeolite' - Tipo: GroupItem (Nome Display non trovato o uguale all'ID)
+Ricerche nome display: 497 successi, 0 fallimenti (o nomi non disponibili).
+--- Fine Lista (627 elementi) ---
